@@ -12,29 +12,29 @@ Features:
 
 | **Windows Version**   | **Edition**               | **Product Key**                             | **Support** |
 |-----------------------|---------------------------|---------------------------------------------|-------------|
-| **Windows 7**         | Home Premium               | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
-|                       | Home Basic                 | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
-|                       | Family                     | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
-|                       | Professional               | FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4               | ✅          |
-|                       | Ultimate                   | 342DG-6YJR8-X92GV-V7DCV-P4K27               | ✅          |
-| **Windows 8**         | Core                       | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
-|                       | Core N                     | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
-|                       | Family                     | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
-|                       | Professional               | GCRJD-8NW9H-F2CDX-CCM8D-9D6T9               | ✅          |
-|                       | Professional N             | HN4F4-QBND8-R8P7F-RPJJH-KM6B4               | ✅          |
-| **Windows 8.1**       | Core                       | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
-|                       | Core N                     | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
-|                       | Family                     | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
-|                       | Professional               | GCRJD-8NW9H-F2CDX-CCM8D-9D6T9               | ✅          |
-|                       | Professional N             | HN4F4-QBND8-R8P7F-RPJJH-KM6B4               | ✅          |
-| **Windows 10 / 11**   | Home                       | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
-|                       | Home N                     | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
-|                       | Home Single Language       | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
-|                       | Home Country Specific      | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
-|                       | Family                     | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
-|                       | Professional               | W269N-WFGWX-YVC9B-4J6C9-T83GX               | ✅          |
-|                       | Professional N             | MH37W-N47XK-V7XM9-C7227-GCQG9               | ✅          |
-|                       | Education                  | NW6C2-QMPVW-D7KKK-3GKT6-VCFB2               | ✅          |
-|                       | Education N                | 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ               | ✅          |
-|                       | Enterprise                 | NPPR9-FWDCX-D2C8J-H872K-2YT43               | ✅          |
-|                       | Enterprise N               | DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4               | ✅          |
+| **Windows 7**         | Home Premium               | ✨ Not Available ✨                | ❌          |
+|                       | Home Basic                 | ✨ Not Available ✨                | ❌          |
+|                       | Family                     | ✨ Not Available ✨                | ❌          |
+|                       | Professional               | FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4      | ✅          |
+|                       | Ultimate                   | 342DG-6YJR8-X92GV-V7DCV-P4K27      | ✅          |
+| **Windows 8**         | Core                       | ✨ Not Available ✨                | ❌          |
+|                       | Core N                     | ✨ Not Available ✨                | ❌          |
+|                       | Family                     | ✨ Not Available ✨                | ❌          |
+|                       | Professional               | GCRJD-8NW9H-F2CDX-CCM8D-9D6T9      | ✅          |
+|                       | Professional N             | HN4F4-QBND8-R8P7F-RPJJH-KM6B4      | ✅          |
+| **Windows 8.1**       | Core                       | ✨ Not Available ✨                | ❌          |
+|                       | Core N                     | ✨ Not Available ✨                | ❌          |
+|                       | Family                     | ✨ Not Available ✨                | ❌          |
+|                       | Professional               | GCRJD-8NW9H-F2CDX-CCM8D-9D6T9      | ✅          |
+|                       | Professional N             | HN4F4-QBND8-R8P7F-RPJJH-KM6B4      | ✅          |
+| **Windows 10 / 11**   | Home                       | ✨ Not Available ✨                | ❌          |
+|                       | Home N                     | ✨ Not Available ✨                | ❌          |
+|                       | Home Single Language       | ✨ Not Available ✨                | ❌          |
+|                       | Home Country Specific      | ✨ Not Available ✨                | ❌          |
+|                       | Family                     | ✨ Not Available ✨                | ❌          |
+|                       | Professional               | W269N-WFGWX-YVC9B-4J6C9-T83GX      | ✅          |
+|                       | Professional N             | MH37W-N47XK-V7XM9-C7227-GCQG9      | ✅          |
+|                       | Education                  | NW6C2-QMPVW-D7KKK-3GKT6-VCFB2      | ✅          |
+|                       | Education N                | 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ      | ✅          |
+|                       | Enterprise                 | NPPR9-FWDCX-D2C8J-H872K-2YT43      | ✅          |
+|                       | Enterprise N               | DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4      | ✅          |
