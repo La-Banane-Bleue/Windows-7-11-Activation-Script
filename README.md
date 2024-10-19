@@ -20,13 +20,17 @@ Features:
 | **Windows 8**         | Core                       | ✨ Not Available ✨                | ❌          |
 |                       | Core N                     | ✨ Not Available ✨                | ❌          |
 |                       | Family                     | ✨ Not Available ✨                | ❌          |
-|                       | Professional               | GCRJD-8NW9H-F2CDX-CCM8D-9D6T9      | ✅          |
-|                       | Professional N             | HN4F4-QBND8-R8P7F-RPJJH-KM6B4      | ✅          |
+|                       | Professional               | NG4HW-VH26C-733KW-K6F98-J8CK4      | ✅          |
+|                       | Professional N             | XCVCF-2NXM9-723PB-MHCB7-2RYQQ      | ✅          |
+|                       | Entreprise                 | 32JNW-9KQ84-P47T8-D8GGY-CWCK7      | ✅          |
+|                       | Entreprise N               | JMNMF-RHW7P-DMY6X-RF3DR-X2BQT      | ✅          |
 | **Windows 8.1**       | Core                       | ✨ Not Available ✨                | ❌          |
 |                       | Core N                     | ✨ Not Available ✨                | ❌          |
 |                       | Family                     | ✨ Not Available ✨                | ❌          |
 |                       | Professional               | GCRJD-8NW9H-F2CDX-CCM8D-9D6T9      | ✅          |
 |                       | Professional N             | HN4F4-QBND8-R8P7F-RPJJH-KM6B4      | ✅          |
+|                       | Entreprise                 | MHF9N-XY6XB-WVXMC-BTDCT-MKKG7      | ✅          |
+|                       | Entreprise N               | TT4HM-HN7YT-62K67-RGRQJ-JFFXW      | ✅          |
 | **Windows 10 / 11**   | Home                       | ✨ Not Available ✨                | ❌          |
 |                       | Home N                     | ✨ Not Available ✨                | ❌          |
 |                       | Home Single Language       | ✨ Not Available ✨                | ❌          |
