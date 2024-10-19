@@ -14,10 +14,17 @@ Windows Activation: After the product key is installed, the script attempts to a
 |-----------------------|---------------------------|---------------------------------------------|-------------|
 | **Windows 7**         | Home Premium               | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
 |                       | Home Basic                 | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
+|                       | Family                     | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
 |                       | Professional               | FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4               | ✅          |
 |                       | Ultimate                   | 342DG-6YJR8-X92GV-V7DCV-P4K27               | ✅          |
+| **Windows 8**         | Core                       | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
+|                       | Core N                     | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
+|                       | Family                     | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
+|                       | Professional               | GCRJD-8NW9H-F2CDX-CCM8D-9D6T9               | ✅          |
+|                       | Professional N             | HN4F4-QBND8-R8P7F-RPJJH-KM6B4               | ✅          |
 | **Windows 8.1**       | Core                       | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
 |                       | Core N                     | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
+|                       | Family                     | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
 |                       | Professional               | GCRJD-8NW9H-F2CDX-CCM8D-9D6T9               | ✅          |
 |                       | Professional N             | HN4F4-QBND8-R8P7F-RPJJH-KM6B4               | ✅          |
 | **Windows 10 / 11**   | Home                       | XXXXXXXXXXXXXXXXXXXXXXXXXXXXX               | ❌          |
